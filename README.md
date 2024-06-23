@@ -20,5 +20,5 @@ Make sure you have the following libraries installed:
 
 You can install the required libraries using pip:
 
-```bash
+```bash for intallation
 pip install pandas scikit-learn scikit-surprise numpy
